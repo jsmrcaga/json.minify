@@ -1,0 +1,15 @@
+{
+  "name": "json.minify",
+  "version": "0.0.1",
+  "description": "A simple package aiming to make small json arrays from json objects",
+  "main": "minifiy.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Jo Colina <jo@jocolina.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
